@@ -1,6 +1,6 @@
 project:
-  owner: EMAIL@HERE.com
-  name: pipeline-prototype
+  name: swarajsirsat677@gmail.com
+  owner: swarajsirsat
   regions:
     - ap-northeast-1
     - ap-northeast-2
@@ -55,4 +55,4 @@ tests:
   #     DomainName: ""
   #   template: ./templates/00-master-ohdsi.yaml
   #   regions:
-  #   - us-west-1
+  #   - us-east-1
